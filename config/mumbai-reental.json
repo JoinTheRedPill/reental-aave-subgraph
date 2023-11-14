@@ -1,0 +1,9 @@
+{
+  "network": "mumbai",
+  "AaveOracleAddress": "0xbD5e7178a4e8960b77dc09234cfDB9B32EA420dc",
+  "AaveOracleStartBlock": 39020287,
+  "PoolAddressesProviderRegistryAddress": "0x0aC934826a7C06B975884891700A4Be378Af33eb",
+  "PoolAddressesProviderRegistryStartBlock": 39020242,
+  "RewardsControllerAddress": "0x84ec5b86d550A6b468cfeEF02742494e8c91D2e0",
+  "RewardsControllerStartBlock": 39020313
+}
