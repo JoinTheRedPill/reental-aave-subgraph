@@ -1,0 +1,9 @@
+{
+  "network": "matic",
+  "AaveOracleAddress": "0x9E313D8cDA997dCEEA20bEA444720702958cd0F3",
+  "AaveOracleStartBlock": 63679507,
+  "PoolAddressesProviderRegistryAddress": "0x1E2Ce78D5b2cc2b9B9082bC615136c688D7058Df",
+  "PoolAddressesProviderRegistryStartBlock": 63679507,
+  "RewardsControllerAddress": "0x32fb7bAD0099b63dF86943b43646347C5b9FF5d1",
+  "RewardsControllerStartBlock": 63679507
+}
